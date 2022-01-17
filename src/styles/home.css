@@ -1,0 +1,26 @@
+.limit {
+  width: 80vw;
+  margin: 0px 10%; }
+
+.image {
+  width: 100%; }
+  .image img {
+    width: 100%;
+    height: 500px; }
+
+.imageText {
+  margin: -75px 10% 0px 10%;
+  background-color: #f1f1f1;
+  opacity: 0.9;
+  color: black; }
+  .imageText__title {
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    font-weight: bold; }
+  .imageText__text {
+    padding: 0px 10px 10px 10px;
+    font-size: 20px; }
+
+/*# sourceMappingURL=home.css.map */

@@ -1,6 +1,10 @@
+.main {
+  background-color: #f1f1f1; }
+
 .limit {
   width: 80vw;
-  margin: 0px 10%; }
+  margin: 0px 10%;
+  background-color: white; }
 
 .image {
   width: 100%; }
@@ -22,5 +26,25 @@
   .imageText__text {
     padding: 0px 10px 10px 10px;
     font-size: 20px; }
+
+.aboutUs {
+  margin: 20px 0px 0px 0px; }
+  .aboutUs__title {
+    text-align: center;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin: 0px 0px 15px 0px; }
+  .aboutUs__content {
+    display: flex; }
+  .aboutUs__image {
+    width: 400px;
+    height: 300px; }
+  .aboutUs__image img {
+    width: 100%;
+    height: 100%; }
+  .aboutUs__text {
+    font-size: 20px;
+    margin: 0px 10px 0px 10px;
+    flex-basis: 60%; }
 
 /*# sourceMappingURL=home.css.map */
